@@ -17,7 +17,7 @@
 ## 三步开始
 
 ```bat
-git clone https://github.com/<你的用户名>/qwen27b-share.git
+git clone https://github.com/Truimphantly/qwen27b-share.git
 cd qwen27b-share
 install-runtime.bat     REM 下载 PrismML llama.cpp fork 运行时 + CUDA DLL(~570MB)
 install-models.bat      REM 下载模型权重 + 视觉投影(~6.6GB,走 hf-mirror,支持断点续传)
