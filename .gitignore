@@ -1,0 +1,6 @@
+models/
+runtime/
+logs/
+*.zip
+*.log
+*.gguf
